@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selophile
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...css
+- 👀 I’m interested in ...web development,data anaylsis
+- 🌱 I’m currently learning ..power bi
 - 💞️ I’m looking to collaborate on ...website
 - 📫 How to reach me ...apna college
 - 😄 Pronouns: ...
